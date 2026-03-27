@@ -1,0 +1,12 @@
+.venv
+.vscode
+analyses/
+target/
+dbt_packages/
+logs/
+profiles.yml
+.user.yml
+deactivate/
+.python-version
+main.py
+pyproject.toml
