@@ -6,6 +6,8 @@ This project is an end-to-end data engineering pipeline built using **dbt**, **S
 
 The goal is to transform raw Airbnb data into clean, analytics-ready datasets using modern data engineering practices such as **medallion architecture**, **incremental modeling**, and **data quality testing**.
 
+![Dashboard Preview](./assets/Tableau.png)  
+
 ---
 
 ## 🧱 Architecture
@@ -28,6 +30,7 @@ This layered approach improves scalability, maintainability, and data quality.
 - SQL – Transformation logic  
 - Jinja – Macros and dynamic SQL  
 - Git & GitHub – Version control  
+- Tableau  
 
 ---
 
